@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on golang/distribution system/blockchain
+🔭 I’m currently working on rust/golang/distribution ETH Layer2.
 
-🌱 I’m currently learning rust
+🌱 I’m currently learning BTC Layer2.
 <!--
 **berryjam/berryjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
