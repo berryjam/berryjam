@@ -14,4 +14,4 @@
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=berryjam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Snake](https://github.com/berryjam/berryjam/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/berryjam/snk/blob/output/github-contribution-grid-snake.svg)
